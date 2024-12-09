@@ -1,0 +1,8 @@
+{
+  "name": "Carlock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c826c4a0"
+}
